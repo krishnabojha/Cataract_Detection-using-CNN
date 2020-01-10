@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sun Feb 10 17:42:09 NPT 2019
+1.base=C\:\\Users\\Dell\\Desktop\\android test\\Final_detect\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=label.txt
+0.set=ASSET
+0.base=C\:\\Users\\Dell\\Desktop\\android test\\Final_detect\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+1.path=akha.tflite

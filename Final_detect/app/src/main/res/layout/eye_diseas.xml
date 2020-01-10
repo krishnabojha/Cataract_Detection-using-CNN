@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/button_image"
+        android:layout_width="383dp"
+        android:layout_height="100dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="2dp"
+        android:background="@drawable/camera"
+        android:onClick="takepicture"
+        android:textAlignment="viewEnd"
+        android:text=" CLICK ME FOR PHOTO"
+        />
+    <ScrollView
+        android:layout_width="383dp"
+        android:layout_height="500dp"
+        android:layout_marginTop="105dp">
+
+        <TextView
+            android:layout_width="370dp"
+            android:layout_height="1500dp"
+            android:id="@+id/text_eye"
+            android:fontFamily="casual"
+            android:background="#F5DEB3"
+            android:textSize="20dp"
+            />
+
+    </ScrollView>
+
+</RelativeLayout>

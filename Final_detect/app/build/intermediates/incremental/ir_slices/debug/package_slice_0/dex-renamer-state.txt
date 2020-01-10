@@ -1,0 +1,4 @@
+#Sun Feb 10 17:42:29 NPT 2019
+base.0=C\:\\Users\\Dell\\Desktop\\android test\\Final_detect\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

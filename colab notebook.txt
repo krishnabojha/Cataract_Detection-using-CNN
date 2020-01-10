@@ -1,0 +1,4 @@
+code link in colab notebook for converting .h5 file into .tflite:
+
+https://colab.research.google.com/drive/1la8ulQ-PsZEVguRYPabVIIj7QNw7VDs-
+

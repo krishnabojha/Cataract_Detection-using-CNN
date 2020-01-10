@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Use Relative Layout instead of default constrain layout.-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="210dp">
+    </ListView>
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_height="200dp"
+        android:layout_width="383dp"
+        ></android.support.v4.view.ViewPager>
+
+
+
+</RelativeLayout>
